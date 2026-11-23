@@ -41,5 +41,5 @@ https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>/main/playli
   - Removes unwanted foreign/regional channels and teleshopping.
 * **JioTV Go Integration**:
   - Bundles the local `http://127.0.0.1:5350/...` channel links. Because OwnTV runs directly on the STB, `127.0.0.1` resolves to the local JioTV Go server on the STB.
-* **Runs Forever (No 60-Day GitHub Inactivity Timeout)**:
-  - Uses `gautamkrishnar/keepalive-workflow` to ensure GitHub Actions never suspends the scheduled cron job.
+* **Runs Continuously (Continuous Active Commits)**:
+  - Updates channel states and logs automatically on schedule, keeping repository activity active without third-party dependencies.
