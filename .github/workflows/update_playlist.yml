@@ -31,8 +31,3 @@ jobs:
           git add playlist.m3u update_channels.log
           git commit -m "Auto-update live IPTV channels [skip ci]" || echo "No changes to commit"
           git push
-
-      - name: Keepalive Workflow (Ensures scheduled runs never stop)
-        uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          use_api: true
