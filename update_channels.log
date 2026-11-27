@@ -151,3 +151,20 @@
 [2026-11-27 01:24:24] =================================================================
 [2026-11-27 01:24:24]   Update Complete! Master playlist is fully synchronized.
 [2026-11-27 01:24:24] =================================================================
+[2026-11-27 15:57:45] =================================================================
+[2026-11-27 15:57:45]   Jio STB Master Playlist Auto-Updater (India + UK + US Lineup)
+[2026-11-27 15:57:45] =================================================================
+[2026-11-27 15:57:45] [*] Loaded current master playlist: 649 channels
+[2026-11-27 15:57:45] [*] Fetching latest updates from aria-tv/aria on GitHub...
+[2026-11-27 15:57:45]     + Fetched 2031 channels from aria+.m3u
+[2026-11-27 15:57:45]     + Fetched 229 channels from aria.m3u
+[2026-11-27 15:57:45] [*] Filtered candidate channels from Aria: 378
+[2026-11-27 15:57:45] [*] Probing candidate streams live (concurrent health check)...
+[2026-11-27 15:57:57] [*] Verified working Aria channels: 89
+[2026-11-27 15:57:57] [*] Channels refreshed with newer live URLs: 0
+[2026-11-27 15:57:57] [*] Total channels in master playlist: 649
+[2026-11-27 15:57:57] [✓] Saved updated master playlist to /home/runner/work/jio-live-playlist/jio-live-playlist/playlist.m3u
+[2026-11-27 15:57:57] [✓] Cloud mode: Master playlist saved to repository. Ready for remote streaming.
+[2026-11-27 15:57:57] =================================================================
+[2026-11-27 15:57:57]   Update Complete! Master playlist is fully synchronized.
+[2026-11-27 15:57:57] =================================================================
